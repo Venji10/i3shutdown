@@ -17,7 +17,7 @@ To install i3shutdown just run:
 $ sudo make install
 ```
 This will install i3shutdown in /usr/bin/i3shutdown .
-You will probably need to make it executable:
+You probably have to make it executable:
 ```
 $ sudo chmod +x /usr/bin/i3shutdown   
 ```
